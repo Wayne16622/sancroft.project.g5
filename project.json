@@ -1,0 +1,61 @@
+{
+    "projects": [
+        {
+            "project_name": "LED Billboard",
+            "client": "Sights & Sites Outdoor Advertising Inc.",
+            "address": "#8 Matipid Street Sikatuna Village, Quezon City",
+            "contact": "02-9615126",
+            "location": "NAIA Terminal 2, 3, 4",
+            "rentals": [
+                "2 Units of 150kva Daewoo generator set",
+                "1 Unit of 100kva Perkins generator set",
+                "1 Unit of 45kva Power City generator set"
+            ]
+        },
+        {
+            "project_name": "Contis Bakeshop",
+            "client": "M. Tamayo Trucking & Logistics Services",
+            "address": "L. Gonzales, Turo Bocaue, Bulacan",
+            "contact": "0917-5897178",
+            "location": "Contis Bakeshop",
+            "rentals": [
+                "9 Units of Generator Set to Supply Electrical Power to Freezer Container for cakes storage",
+                "1 Unit 50kva Cummins at PASAY CITY",
+                "1 Unit 50kva Deutz at LAS PINAS",
+                "1 Unit 63kva John Deere at FAIRVIEW",
+                "1 Unit 45kva Perkins at KATIPUNAN",
+                "1 Unit 25kva Daeheung at PARANAQUE",
+                "1 Unit 25kva Isuzu at MOA PASAY",
+                "1 Unit 25kva Yanmar at MOA PASAY",
+                "1 Unit 62.5kva John Deere at TRINOMA",
+                "1 Unit 50kva Cummins at TRINOMA"
+            ]
+        },
+        {
+            "project_name": "21 Storey MARINA Condominium",
+            "client": "MSTM Foundation Specialist Inc.",
+            "address": "#7 President quezon Street Lifehomes Subd. Pasig, City",
+            "contact": "0917-5037253",
+            "location": "Pacific Avenue Paranaque, City",
+            "rentals": [
+                "1 Unit of 600kva Cummins generator set"
+            ]
+        },
+        {
+            "project_name": "Extension of SM Fairview Shopping Mall",
+            "client": "SLT Construction Corp.",
+            "location": "SM Fairview",
+            "rentals": [
+                "1 Unit of 150kva HINO generator set"
+            ]
+        },
+        {
+            "project_name": "BDO Building",
+            "client": "FADZ Construction",
+            "location": "Pampanga",
+            "rentals": [
+                "1 Unit of 25kva Perkins generator set"
+            ]
+        }
+    ]
+}

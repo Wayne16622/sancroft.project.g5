@@ -1,0 +1,312 @@
+{
+    "products": [
+        {
+            "name": "PERKINS Generator",
+            "price": "PHP 420,000.00",
+            "engine": "6-cylinder in-line turbocharged Diesel Engine",
+            "capacity": "100kW",
+            "fuel_consumption": "16 Liters",
+            "output": "100KVA",
+            "type": "Silent",
+            "gross_weight": "2019KG (Dry weight)",
+            "image": "./images/product 1.png"
+        },
+        {
+            "name": "CAT Generator",
+            "price": "PHP 480,000.00",
+            "engine": "4-cylinder turbocharged Diesel Engine",
+            "capacity": "120kW",
+            "fuel_consumption": "18 Liters",
+            "output": "120KVA",
+            "type": "Silent",
+            "gross_weight": "2300KG (Dry weight)",
+            "image": "./images/product 2.png"
+        },
+        {
+            "name": "Kohler Generator",
+            "price": "PHP 500,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "150kW",
+            "fuel_consumption": "20 Liters",
+            "output": "150KVA",
+            "type": "Silent",
+            "gross_weight": "2500KG (Dry weight)",
+            "image": "./images/product 3.png"
+        },
+        {
+            "name": "Cummins Generator",
+            "price": "PHP 550,000.00",
+            "engine": "8-cylinder turbocharged Diesel Engine",
+            "capacity": "180kW",
+            "fuel_consumption": "25 Liters",
+            "output": "180KVA",
+            "type": "Silent",
+            "gross_weight": "2900KG (Dry weight)",
+            "image": "./images/product 4.png"
+        },
+        {
+            "name": "Honda Generator",
+            "price": "PHP 400,000.00",
+            "engine": "4-cylinder turbocharged Diesel Engine",
+            "capacity": "80kW",
+            "fuel_consumption": "12 Liters",
+            "output": "80KVA",
+            "type": "Silent",
+            "gross_weight": "1800KG (Dry weight)",
+            "image": "./images/product 5.png"
+        },
+        {
+            "name": "Volvo Generator",
+            "price": "PHP 580,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "200kW",
+            "fuel_consumption": "28 Liters",
+            "output": "200KVA",
+            "type": "Silent",
+            "gross_weight": "3200KG (Dry weight)",
+            "image": "./images/product 6.png"
+        },
+        {
+            "name": "Wacker Generator",
+            "price": "PHP 600,000.00",
+            "engine": "4-cylinder turbocharged Diesel Engine",
+            "capacity": "150kW",
+            "fuel_consumption": "22 Liters",
+            "output": "150KVA",
+            "type": "Silent",
+            "gross_weight": "2700KG (Dry weight)",
+            "image": "./images/product 7.png"
+        },
+        {
+            "name": "Isuzu Generator",
+            "price": "PHP 650,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "250kW",
+            "fuel_consumption": "30 Liters",
+            "output": "250KVA",
+            "type": "Silent",
+            "gross_weight": "3500KG (Dry weight)",
+            "image": "./images/product 8.png"
+        },
+        {
+            "name": "MTU Generator",
+            "price": "PHP 700,000.00",
+            "engine": "8-cylinder turbocharged Diesel Engine",
+            "capacity": "300kW",
+            "fuel_consumption": "35 Liters",
+            "output": "300KVA",
+            "type": "Silent",
+            "gross_weight": "4000KG (Dry weight)",
+            "image": "./images/product 9.png"
+        },
+        {
+            "name": "Yanmar Generator",
+            "price": "PHP 750,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "350kW",
+            "fuel_consumption": "40 Liters",
+            "output": "350KVA",
+            "type": "Silent",
+            "gross_weight": "4500KG (Dry weight)",
+            "image": "./images/product 10.png"
+        },
+        {
+            "name": "Cummins Generator",
+            "price": "PHP 800,000.00",
+            "engine": "8-cylinder turbocharged Diesel Engine",
+            "capacity": "400kW",
+            "fuel_consumption": "45 Liters",
+            "output": "400KVA",
+            "type": "Silent",
+            "gross_weight": "5000KG (Dry weight)",
+            "image": "./images/product 11.png"
+        },
+        {
+            "name": "Perkins Generator",
+            "price": "PHP 850,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "450kW",
+            "fuel_consumption": "50 Liters",
+            "output": "450KVA",
+            "type": "Silent",
+            "gross_weight": "5500KG (Dry weight)",
+            "image": "./images/product 12.png"
+        },
+        {
+            "name": "Caterpillar Generator",
+            "price": "PHP 900,000.00",
+            "engine": "10-cylinder turbocharged Diesel Engine",
+            "capacity": "500kW",
+            "fuel_consumption": "60 Liters",
+            "output": "500KVA",
+            "type": "Silent",
+            "gross_weight": "6000KG (Dry weight)",
+            "image": "./images/product 13.png"
+        },
+        {
+            "name": "Mitsubishi Generator",
+            "price": "PHP 950,000.00",
+            "engine": "8-cylinder turbocharged Diesel Engine",
+            "capacity": "600kW",
+            "fuel_consumption": "70 Liters",
+            "output": "600KVA",
+            "type": "Silent",
+            "gross_weight": "7000KG (Dry weight)",
+            "image": "./images/product 14.png"
+        },
+        {
+            "name": "Kipor Generator",
+            "price": "PHP 380,000.00",
+            "engine": "3-cylinder turbocharged Diesel Engine",
+            "capacity": "70kW",
+            "fuel_consumption": "10 Liters",
+            "output": "70KVA",
+            "type": "Silent",
+            "gross_weight": "1500KG (Dry weight)",
+            "image": "./images/product 15.png"
+        },
+        {
+            "name": "Doosan Generator",
+            "price": "PHP 1,000,000.00",
+            "engine": "10-cylinder turbocharged Diesel Engine",
+            "capacity": "700kW",
+            "fuel_consumption": "80 Liters",
+            "output": "700KVA",
+            "type": "Silent",
+            "gross_weight": "8000KG (Dry weight)",
+            "image": "./images/product 16.png"
+        },
+        {
+            "name": "Denyo Generator",
+            "price": "PHP 600,000.00",
+            "engine": "5-cylinder turbocharged Diesel Engine",
+            "capacity": "160kW",
+            "fuel_consumption": "25 Liters",
+            "output": "160KVA",
+            "type": "Silent",
+            "gross_weight": "2800KG (Dry weight)",
+            "image": "./images/product 17.png"
+        },
+        {
+            "name": "Hitachi Generator",
+            "price": "PHP 720,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "220kW",
+            "fuel_consumption": "30 Liters",
+            "output": "220KVA",
+            "type": "Silent",
+            "gross_weight": "3400KG (Dry weight)",
+            "image": "./images/product 18.png"
+        },
+        {
+            "name": "FG Wilson Generator",
+            "price": "PHP 520,000.00",
+            "engine": "4-cylinder turbocharged Diesel Engine",
+            "capacity": "140kW",
+            "fuel_consumption": "20 Liters",
+            "output": "140KVA",
+            "type": "Silent",
+            "gross_weight": "2400KG (Dry weight)",
+            "image": "./images/product 19.png"
+        },
+        {
+            "name": "Kubota Generator",
+            "price": "PHP 450,000.00",
+            "engine": "3-cylinder turbocharged Diesel Engine",
+            "capacity": "90kW",
+            "fuel_consumption": "15 Liters",
+            "output": "90KVA",
+            "type": "Silent",
+            "gross_weight": "2000KG (Dry weight)",
+            "image": "./images/product 20.png"
+        },
+        {
+            "name": "Atlas Copco Generator",
+            "price": "PHP 850,000.00",
+            "engine": "8-cylinder turbocharged Diesel Engine",
+            "capacity": "500kW",
+            "fuel_consumption": "60 Liters",
+            "output": "500KVA",
+            "type": "Silent",
+            "gross_weight": "6000KG (Dry weight)",
+            "image": "./images/product 21.png"
+        },
+        {
+            "name": "Generac Generator",
+            "price": "PHP 950,000.00",
+            "engine": "10-cylinder turbocharged Diesel Engine",
+            "capacity": "600kW",
+            "fuel_consumption": "70 Liters",
+            "output": "600KVA",
+            "type": "Silent",
+            "gross_weight": "7000KG (Dry weight)",
+            "image": "./images/product 22.png"
+        },
+        {
+            "name": "Siemens Generator",
+            "price": "PHP 1,200,000.00",
+            "engine": "12-cylinder turbocharged Diesel Engine",
+            "capacity": "750kW",
+            "fuel_consumption": "90 Liters",
+            "output": "750KVA",
+            "type": "Silent",
+            "gross_weight": "9000KG (Dry weight)",
+            "image": "./images/product 23.png"
+        },
+        {
+            "name": "JCB Generator",
+            "price": "PHP 750,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "350kW",
+            "fuel_consumption": "45 Liters",
+            "output": "350KVA",
+            "type": "Silent",
+            "gross_weight": "4500KG (Dry weight)",
+            "image": "./images/product 24.png"
+        },
+        {
+            "name": "Hyundai Generator",
+            "price": "PHP 700,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "300kW",
+            "fuel_consumption": "40 Liters",
+            "output": "300KVA",
+            "type": "Silent",
+            "gross_weight": "4000KG (Dry weight)",
+            "image": "./images/product 25.png"
+        },
+        {
+            "name": "Daewoo Generator",
+            "price": "PHP 620,000.00",
+            "engine": "6-cylinder turbocharged Diesel Engine",
+            "capacity": "180kW",
+            "fuel_consumption": "26 Liters",
+            "output": "180KVA",
+            "type": "Silent",
+            "gross_weight": "2900KG (Dry weight)",
+            "image": "./images/product 26.png"
+        },
+        {
+            "name": "John Decree Generator",
+            "price": "PHP 800,000.00",
+            "engine": "8-cylinder turbocharged Diesel Engine",
+            "capacity": "400kW",
+            "fuel_consumption": "50 Liters",
+            "output": "400KVA",
+            "type": "Silent",
+            "gross_weight": "5100KG (Dry weight)",
+            "image": "./images/product 27.png"
+        },
+        {
+            "name": "Cummins Generator",
+            "price": "PHP 950,000.00",
+            "engine": "10-cylinder turbocharged Diesel Engine",
+            "capacity": "500kW",
+            "fuel_consumption": "60 Liters",
+            "output": "500KVA",
+            "type": "Silent",
+            "gross_weight": "6000KG (Dry weight)",
+            "image": "./images/product 28.png"
+        }
+    ]
+}
